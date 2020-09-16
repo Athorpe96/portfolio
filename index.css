@@ -1,9 +1,22 @@
 body {
-  background-color: aqua;
+  background-color: blue;
 }
 .container {
   padding-left: 20px;
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
+}
+
+.background-portfolio {
+  background-color: blue;
+}
+p {
+  color: orangered;
+  padding-left: 70px;
+}
+.github {
+  color: orangered;
+  text-align: center;
+  padding-left: 70px;
 }
